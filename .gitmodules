@@ -16,3 +16,12 @@
 [submodule "test-site-sixth"]
 	path = test-site-sixth
 	url = https://github.com/ny-sa/test-site-sixth
+[submodule "test-app-third"]
+	path = test-app-third
+	url = https://github.com/ny-sa/test-app-third
+[submodule "test-app-second"]
+	path = test-app-second
+	url = https://github.com/ny-sa/test-app-second
+[submodule "test-app-first"]
+	path = test-app-first
+	url = https://github.com/ny-sa/test-app-first
