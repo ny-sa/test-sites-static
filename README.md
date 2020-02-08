@@ -10,7 +10,6 @@
 ### Dynamic Applications from the second half
 #### Deployed onto Heroku
 
-[1st App](https://agile-fortress-86752.herokuapp.com 'test-app-first')
-[2nd App](https://warm-lake-13458.herokuapp.com 'test-app-second')
-
+[1st App](https://agile-fortress-86752.herokuapp.com 'test-app-first') <br>
+[2nd App](https://warm-lake-13458.herokuapp.com 'test-app-second') <br>
 [3rd App](https://fathomless-ridge-38994.herokuapp.com 'test-app-third')
