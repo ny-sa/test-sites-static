@@ -25,3 +25,6 @@
 [submodule "test-app-first"]
 	path = test-app-first
 	url = https://github.com/ny-sa/test-app-first
+[submodule "test-app-fourth"]
+	path = test-app-fourth
+	url = https://github.com/ny-sa/test-app-fourth
