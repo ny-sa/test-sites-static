@@ -1,3 +1,6 @@
+This [Udemy course](https://www.udemy.com/course/the-complete-web-development-bootcamp/ 'The Complete 2020 Web Development Bootcamp | Udemy') has been quite helpful.
+I'll put a link for each project of the course here.
+
 ### Static Sites from the first half
 #### Hosted onto Github Pages
 [1st Site](https://ny-sa.github.io/test-webdev/test-site-first 'test-site-first') <br>
