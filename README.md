@@ -1,5 +1,5 @@
-This [Udemy course](https://www.udemy.com/course/the-complete-web-development-bootcamp/ 'The Complete 2020 Web Development Bootcamp | Udemy') has been quite helpful.
-I'll put a link for each project of the course here.
+This [Udemy course](https://www.udemy.com/course/the-complete-web-development-bootcamp/ 'The Complete 2020 Web Development Bootcamp | Udemy') has been quite helpful. <br>
+So I'm gathering here links to all of the things I've done by following along.
 
 ### Static Sites from the first half
 #### Hosted onto Github Pages
