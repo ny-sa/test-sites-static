@@ -31,3 +31,6 @@
 [submodule "test-app-fifth"]
 	path = test-app-fifth
 	url = https://github.com/ny-sa/test-app-fifth
+[submodule "test-api"]
+	path = test-api
+	url = https://github.com/ny-sa/test-api
